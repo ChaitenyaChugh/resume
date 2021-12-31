@@ -189,20 +189,20 @@ h2 {
 
 .profile_frame{
 	width: 220px;
-	height: 250px;
+	height: 225px;
 	background: black;
 	border: 1px solid #403F44;
 	margin-top: 30px;
 	display: flex;
 	justify-content: center;
-	border-radius: 50%;
+	border-radius: 100%;
 	box-shadow: 0px 0px 15px 7.5px #48DA9B;
 }
 	.profile_picture{
 		width: 210px;
-		height: 240px;
+		height: 215px;
 		margin: 5px;
-		border-radius: 50%;
+		border-radius: 100%;
 	}
 
 .column_content,
