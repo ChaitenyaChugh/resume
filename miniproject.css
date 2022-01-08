@@ -191,7 +191,7 @@ h2 {
 
 .profile_frame{
 	width: 220px;
-	height: 250px;
+	height: 225px;
 	background: black;
 	border: 1px solid #403F44;
 	margin-top: 30px;
@@ -202,7 +202,7 @@ h2 {
 }
 	.profile_picture{
 		width: 210px;
-		height: 240px;
+		height: 215px;
 		margin: 5px;
 		border-radius: 50%;
 	}
